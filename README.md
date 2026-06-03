@@ -37,29 +37,7 @@ Refine continuously.
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sensibile&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sensibile&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=24292f"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sensibile&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=24292f" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sensibile&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sensibile&layout=compact&hide_border=true&title_color=0f766e&text_color=24292f"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensibile&layout=compact&hide_border=true&title_color=0f766e&text_color=24292f" />
-</picture>
+<img width="900" alt="sensibile profile card" src="./assets/profile-card.svg" />
 
 </div>
 
