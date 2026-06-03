@@ -33,14 +33,6 @@ Measure honestly.
 Refine continuously.
 ```
 
-## GitHub Snapshot
-
-<div align="center">
-
-<img width="900" alt="sensibile profile card" src="./assets/profile-card.svg" />
-
-</div>
-
 ## Principles
 
 | Principle | What it means in practice |
